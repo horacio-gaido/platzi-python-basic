@@ -1,1 +1,2 @@
-# Aquí encuentras todo el código trabajado durante el curso 
+# Código trabajado durante el curso de Python Básico
+# Profesor: Facundo Garcia Martoni
